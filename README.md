@@ -15,5 +15,6 @@ Window generated using Tk class and amazon logo added to window with the help of
 messagebox imported from Tkinter to generate success or failure messages depending on User Inputs.
 # urllib.parse 
 urllib.parse used to parse the URL and extract domain name and check if URL is from www.amazon.in
-
-The python file amazon_price_tracker.py as well as the .png image file is uploaded. Download them and keep them in the same folder. 
+The python file AmazonPriceTracker.py as well as the .png image file is uploaded. Download them and keep them in the same folder. 
+# PREVIEW
+![Amazon](https://user-images.githubusercontent.com/109027110/180621367-568d2ef2-6c9e-417e-b5ca-92bd04f9d45a.jpg)
