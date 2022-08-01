@@ -1,6 +1,9 @@
 # AMAZON_INDIA_PRICE_TRACKER
 The Project uses BeautifulSoup to scrape price of an item in  www.amazon.in , the URL taken as User Input ,and checks against User's budget (User Input)
 and sends an email to User's Email ID
+# TO RUN THIS PROJECT
+Download all files and save them in the same folder
+
 # USER INPUTS :
 Item URL
 Budget
